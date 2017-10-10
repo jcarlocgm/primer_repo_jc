@@ -9,3 +9,5 @@ reg price mpg
 Cuarta linea del programa
 
 Quinta linea del programa
+
+reg price mpg,5
